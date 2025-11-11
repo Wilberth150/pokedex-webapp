@@ -12,7 +12,7 @@ A responsive web application that displays Pokémon data using the public [Poké
 - Pokémon detail view (types, height, weight, etc.)
 - Search functionality by name
 - Responsive design for mobile and desktop
-- 
+
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -20,7 +20,7 @@ A responsive web application that displays Pokémon data using the public [Poké
 - JavaScript (ES6+)
 - PokéAPI
 
-## 🧪 How to Used 
+## 🧪 How to Use 
 
 1. Clone the repository:
 
